@@ -1,2 +1,0 @@
-atr_pkg:imu_pkg:lidar_pkg:qq_msgs:ssr_pkg:vel_pkg:wpr_simulation
--DCMAKE_BUILD_TYPE=RelWithDebInfo -G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/thy/catkin_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/thy/catkin_ws/install_isolated
